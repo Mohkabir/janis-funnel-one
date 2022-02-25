@@ -53,9 +53,15 @@ iframe{
 
 @media (min-width: 450px) {
   iframe{
-    height: 100%;
+    height: 350px;
   }
 }
+
+/* @media (min-width: 550px) {
+  iframe{
+    height: 100%;
+  }
+} */
 
 @keyframes btn {
   0% {
