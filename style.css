@@ -179,6 +179,19 @@ section .heading h1 {
     max-width: 1000px;
     margin: 0 auto;
   }
+
+
+  .iframe_wrapper{
+    max-width: 1200px;
+    margin: 20px auto;
+    width: 100%;
+    background-color: #000000;
+    padding: 30px 10px;
+  }
+  iframe{
+    height: 100%;
+  }
+
   section .heading h1 {
     font-size: 3em;
   }
